@@ -5,14 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h2>Cloud for Developers, Fall 2024</h2>
         <img src={logo} className="App-logo" alt="logo" />
-        <h3>Hola cariño c:</h3>
+        <h3>Project 04, by Kendra Jade Kindrai</h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>
-          Automatic Build Test Message
-        </p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
